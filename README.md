@@ -34,9 +34,9 @@ Clasificación de calidad:
 <20%: Muy mala (zonas urbanas densas)
 
 Aplicaciones prácticas:
-Planificación urbana: Dónde plantar más árboles
+  Planificación urbana: Dónde plantar más árboles
 
-Evaluación de parques: Calidad de zonas verdes
+  Evaluación de parques: Calidad de zonas verdes
 
 Estudios climáticos: Efecto de isla de calor
 
@@ -55,3 +55,8 @@ Incrementan bienestar psicológico
 Reducen contaminación acústica
 
 Proveen hábitat para biodiversidad
+
+
+<img width="783" height="572" alt="image" src="https://github.com/user-attachments/assets/cb999420-7565-4199-9f46-18b5fd33f46b" />
+
+
